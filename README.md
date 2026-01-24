@@ -60,9 +60,4 @@
 
 ---
 
-## 📌 Featured Projects
-_(Coming soon — actively building and improving projects)_
-
----
-
 ⭐ Feel free to explore my repositories and connect with me!
