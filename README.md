@@ -62,9 +62,8 @@
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Saif-Hassan-dev&show_icons=true&theme=tokyonight)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Saif-Hassan-dev&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saif-Hassan-dev&layout=compact&theme=tokyonight)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github)
+
 
 ---
 
