@@ -10,7 +10,7 @@
 ## 💫 About Me
 - 🎓 BSCS student at COMSATS University  
 - 🔧 Interested in backend development and mobile apps  
-- 📱 Working with Flutter & Dart  
+- 📱 Working with Flutter & Dart(APP DEVELOPMENT) 
 - ☕ Strong foundation in Java and C/C++  
 - 🌱 Continuously learning web and backend technologies  
 - 💬 Open to collaboration, learning, and meaningful discussions  
