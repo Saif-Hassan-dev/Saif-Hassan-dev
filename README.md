@@ -1,32 +1,32 @@
 ### Hi there 👋 I'm Saif ul Hassan
 
-🎓 BS Computer Science student at COMSATS  
-💻 Backend & Mobile App Developer  
-🚀 Currently working with Java & Flutter  
-📚 Learning DSA, backend systems, and real-world app development  
+ ]S Computer Science student at COMSATS  
+ Backend & Mobile App Developer  
+ Currently working with Java & Flutter  
+ Learning DSA, backend systems, and real-world app development  
 
 ---
 
-## 💫 About Me
-- 🎓 BSCS student at COMSATS University  
-- 🔧 Interested in backend development and mobile apps  
-- 📱 Working with Flutter & Dart(APP DEVELOPMENT) 
-- ☕ Strong foundation in Java and C/C++  
-- 🌱 Continuously learning web and backend technologies  
-- 💬 Open to collaboration, learning, and meaningful discussions  
+## About Me
+-  BSCS student at COMSATS University  
+-  Interested in backend development and mobile apps  
+-  Working with Flutter & Dart(APP DEVELOPMENT) 
+-  Strong foundation in Java and C/C++  
+-  Continuously learning web and backend technologies  
+-  Open to collaboration, learning, and meaningful discussions  
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saif-hassan-82111b361/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Saif-Hassan-dev)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/saifulhassan/)
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
-### 🧠 Languages
+###  Languages
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -35,7 +35,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
-### 📱 Mobile & Web
+###  Mobile & Web
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -50,7 +50,7 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 
-### 🗄️ Database & Tools
+###  Database & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -63,20 +63,20 @@
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
 
-### 🎨 Design / UX
+###  Design / UX
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=saif-hassan-dev&theme=github)
 
 
 ---
 
-## 🚀 Current Focus
+##  Current Focus
 - Data Structures & Algorithms (Java)
 - Backend development concepts
 - Flutter app development
