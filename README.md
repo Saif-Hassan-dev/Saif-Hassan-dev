@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Saif ul Hassan
 
- ]S Computer Science student at COMSATS  
+ Computer Science student at COMSATS  
  Backend & Mobile App Developer  
  Currently working with Java & Flutter  
  Learning DSA, backend systems, and real-world app development  
