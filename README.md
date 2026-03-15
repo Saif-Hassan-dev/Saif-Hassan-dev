@@ -2,7 +2,7 @@
 
  Computer Science student at COMSATS  
  Backend & Mobile App Developer
- Currently working with Java & Flutter,
+ Currently working with Java & Flutter
  Learning DSA, backend systems, and real-world app development  
 
 ---
